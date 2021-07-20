@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/anonio.xyz/static/css/main.33e6faf9.chunk.css",
+    "main.js": "/anonio.xyz/static/js/main.0cda2b8c.chunk.js",
+    "main.js.map": "/anonio.xyz/static/js/main.0cda2b8c.chunk.js.map",
+    "runtime-main.js": "/anonio.xyz/static/js/runtime-main.672aaa6b.js",
+    "runtime-main.js.map": "/anonio.xyz/static/js/runtime-main.672aaa6b.js.map",
+    "static/js/2.9bbf2664.chunk.js": "/anonio.xyz/static/js/2.9bbf2664.chunk.js",
+    "static/js/2.9bbf2664.chunk.js.map": "/anonio.xyz/static/js/2.9bbf2664.chunk.js.map",
+    "static/js/3.7a554d80.chunk.js": "/anonio.xyz/static/js/3.7a554d80.chunk.js",
+    "static/js/3.7a554d80.chunk.js.map": "/anonio.xyz/static/js/3.7a554d80.chunk.js.map",
+    "index.html": "/anonio.xyz/index.html",
+    "static/css/main.33e6faf9.chunk.css.map": "/anonio.xyz/static/css/main.33e6faf9.chunk.css.map",
+    "static/js/2.9bbf2664.chunk.js.LICENSE.txt": "/anonio.xyz/static/js/2.9bbf2664.chunk.js.LICENSE.txt",
+    "static/media/cersani.a034a231.png": "/anonio.xyz/static/media/cersani.a034a231.png",
+    "static/media/style.css": "/anonio.xyz/static/media/twitter-logo.6859a17e.svg",
+    "static/media/orientacion.11152e3e.png": "/anonio.xyz/static/media/orientacion.11152e3e.png",
+    "static/media/toogoodtogo.2577f8c2.png": "/anonio.xyz/static/media/toogoodtogo.2577f8c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.672aaa6b.js",
+    "static/js/2.9bbf2664.chunk.js",
+    "static/css/main.33e6faf9.chunk.css",
+    "static/js/main.0cda2b8c.chunk.js"
+  ]
+}
